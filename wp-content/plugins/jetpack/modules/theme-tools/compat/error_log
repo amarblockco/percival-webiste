@@ -1,0 +1,16 @@
+[11-Dec-2019 13:13:31 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/theme-tools/compat/twentyfifteen.php on line 18
+[11-Dec-2019 13:13:31 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/theme-tools/compat/twentysixteen.php on line 18
+[11-Dec-2019 13:13:32 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/theme-tools/compat/twentyfourteen.php on line 16
+[11-Dec-2019 13:13:32 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/theme-tools/compat/twentyseventeen.php on line 13
+[24-Jan-2020 11:57:37 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/theme-tools/compat/twentyfifteen.php on line 18
+[24-Jan-2020 11:57:41 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/theme-tools/compat/twentysixteen.php on line 18
+[24-Jan-2020 11:57:47 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/theme-tools/compat/twentyfourteen.php on line 16
+[24-Jan-2020 11:57:49 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/theme-tools/compat/twentyseventeen.php on line 13
+[24-Jan-2020 21:12:06 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/theme-tools/compat/twentyfourteen.php on line 16
+[24-Jan-2020 21:12:06 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/theme-tools/compat/twentysixteen.php on line 18
+[24-Jan-2020 21:12:07 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/theme-tools/compat/twentyseventeen.php on line 13
+[24-Jan-2020 21:12:07 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/theme-tools/compat/twentyfifteen.php on line 18
+[04-Feb-2020 19:24:52 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/theme-tools/compat/twentyfifteen.php on line 18
+[04-Feb-2020 19:24:52 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/theme-tools/compat/twentyseventeen.php on line 13
+[04-Feb-2020 19:24:53 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/theme-tools/compat/twentysixteen.php on line 18
+[04-Feb-2020 19:24:53 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/theme-tools/compat/twentyfourteen.php on line 16

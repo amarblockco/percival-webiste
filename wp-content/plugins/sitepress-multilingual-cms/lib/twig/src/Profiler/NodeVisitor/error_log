@@ -1,0 +1,3 @@
+[24-Jan-2020 13:06:02 UTC] PHP Fatal error:  Class 'WPML\Core\Twig\NodeVisitor\AbstractNodeVisitor' not found in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/lib/twig/src/Profiler/NodeVisitor/ProfilerNodeVisitor.php on line 29
+[24-Jan-2020 21:13:45 UTC] PHP Fatal error:  Class 'WPML\Core\Twig\NodeVisitor\AbstractNodeVisitor' not found in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/lib/twig/src/Profiler/NodeVisitor/ProfilerNodeVisitor.php on line 29
+[04-Feb-2020 19:27:28 UTC] PHP Fatal error:  Class 'WPML\Core\Twig\NodeVisitor\AbstractNodeVisitor' not found in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/lib/twig/src/Profiler/NodeVisitor/ProfilerNodeVisitor.php on line 29

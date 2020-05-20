@@ -1,0 +1,3 @@
+[24-Jan-2020 13:23:00 UTC] PHP Fatal error:  Class 'WPML\Core\Twig\Node\Expression\FilterExpression' not found in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/lib/twig/src/Node/Expression/Filter/DefaultFilter.php on line 29
+[24-Jan-2020 21:13:36 UTC] PHP Fatal error:  Class 'WPML\Core\Twig\Node\Expression\FilterExpression' not found in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/lib/twig/src/Node/Expression/Filter/DefaultFilter.php on line 29
+[04-Feb-2020 19:28:11 UTC] PHP Fatal error:  Class 'WPML\Core\Twig\Node\Expression\FilterExpression' not found in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/lib/twig/src/Node/Expression/Filter/DefaultFilter.php on line 29

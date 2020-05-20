@@ -1,0 +1,7 @@
+[11-Dec-2019 13:13:12 UTC] PHP Fatal error:  Interface 'IWPML_REST_Action' not found in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/classes/REST/RewriteRules.php on line 6
+[13-Jan-2020 18:50:16 UTC] PHP Fatal error:  Interface 'IWPML_REST_Action' not found in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/classes/REST/RewriteRules.php on line 6
+[13-Jan-2020 21:10:10 UTC] PHP Fatal error:  Interface 'IWPML_REST_Action' not found in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/classes/REST/RewriteRules.php on line 6
+[24-Jan-2020 11:56:27 UTC] PHP Fatal error:  Interface 'IWPML_REST_Action' not found in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/classes/REST/RewriteRules.php on line 6
+[24-Jan-2020 21:14:04 UTC] PHP Fatal error:  Interface 'IWPML_REST_Action' not found in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/classes/REST/RewriteRules.php on line 6
+[04-Feb-2020 19:24:25 UTC] PHP Fatal error:  Interface 'IWPML_REST_Action' not found in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/classes/REST/RewriteRules.php on line 6
+[17-Feb-2020 17:49:25 UTC] PHP Fatal error:  Interface 'IWPML_REST_Action' not found in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/classes/REST/RewriteRules.php on line 6

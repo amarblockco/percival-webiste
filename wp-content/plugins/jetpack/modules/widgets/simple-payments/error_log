@@ -1,0 +1,12 @@
+[11-Dec-2019 13:13:29 UTC] PHP Fatal error:  Call to undefined function wp_get_attachment_image() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/simple-payments/widget.php on line 5
+[11-Dec-2019 13:13:29 UTC] PHP Fatal error:  Call to undefined function wp_kses() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/simple-payments/admin-warning.php on line 8
+[11-Dec-2019 13:13:30 UTC] PHP Fatal error:  Call to undefined function esc_attr() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/simple-payments/form.php on line 2
+[24-Jan-2020 11:56:52 UTC] PHP Fatal error:  Call to undefined function esc_attr() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/simple-payments/form.php on line 2
+[24-Jan-2020 11:56:52 UTC] PHP Fatal error:  Call to undefined function wp_get_attachment_image() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/simple-payments/widget.php on line 5
+[24-Jan-2020 11:56:53 UTC] PHP Fatal error:  Call to undefined function wp_kses() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/simple-payments/admin-warning.php on line 8
+[24-Jan-2020 21:11:57 UTC] PHP Fatal error:  Call to undefined function esc_attr() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/simple-payments/form.php on line 2
+[24-Jan-2020 21:11:57 UTC] PHP Fatal error:  Call to undefined function wp_get_attachment_image() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/simple-payments/widget.php on line 5
+[24-Jan-2020 21:11:57 UTC] PHP Fatal error:  Call to undefined function wp_kses() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/simple-payments/admin-warning.php on line 8
+[04-Feb-2020 19:24:48 UTC] PHP Fatal error:  Call to undefined function esc_attr() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/simple-payments/form.php on line 2
+[04-Feb-2020 19:24:48 UTC] PHP Fatal error:  Call to undefined function wp_get_attachment_image() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/simple-payments/widget.php on line 5
+[04-Feb-2020 19:24:48 UTC] PHP Fatal error:  Call to undefined function wp_kses() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/simple-payments/admin-warning.php on line 8

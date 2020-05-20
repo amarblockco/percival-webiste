@@ -1,0 +1,6 @@
+[24-Jan-2020 12:47:54 UTC] PHP Fatal error:  Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/percivaltoken/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/H.php on line 5
+[24-Jan-2020 12:47:54 UTC] PHP Fatal error:  Class 'ParagonIE_Sodium_Core_Curve25519_Fe' not found in /home/percivaltoken/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Fe.php on line 5
+[24-Jan-2020 21:11:28 UTC] PHP Fatal error:  Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/percivaltoken/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/H.php on line 5
+[24-Jan-2020 21:11:28 UTC] PHP Fatal error:  Class 'ParagonIE_Sodium_Core_Curve25519_Fe' not found in /home/percivaltoken/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Fe.php on line 5
+[04-Feb-2020 19:26:36 UTC] PHP Fatal error:  Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/percivaltoken/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/H.php on line 5
+[04-Feb-2020 19:26:36 UTC] PHP Fatal error:  Class 'ParagonIE_Sodium_Core_Curve25519_Fe' not found in /home/percivaltoken/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Fe.php on line 5

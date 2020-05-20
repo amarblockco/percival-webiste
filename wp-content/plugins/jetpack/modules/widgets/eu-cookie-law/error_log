@@ -1,0 +1,12 @@
+[11-Dec-2019 13:13:28 UTC] PHP Fatal error:  Call to undefined function esc_html_e() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/eu-cookie-law/form.php on line 3
+[11-Dec-2019 13:13:28 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/eu-cookie-law/widget.php on line 2
+[11-Dec-2019 13:13:28 UTC] PHP Fatal error:  Call to undefined function esc_attr() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/eu-cookie-law/widget.php on line 8
+[24-Jan-2020 11:56:51 UTC] PHP Fatal error:  Call to undefined function esc_html_e() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/eu-cookie-law/form.php on line 3
+[24-Jan-2020 11:56:51 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/eu-cookie-law/widget.php on line 2
+[24-Jan-2020 11:56:51 UTC] PHP Fatal error:  Call to undefined function esc_attr() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/eu-cookie-law/widget.php on line 8
+[24-Jan-2020 21:11:54 UTC] PHP Fatal error:  Call to undefined function esc_html_e() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/eu-cookie-law/form.php on line 3
+[24-Jan-2020 21:11:54 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/eu-cookie-law/widget.php on line 2
+[24-Jan-2020 21:11:54 UTC] PHP Fatal error:  Call to undefined function esc_attr() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/eu-cookie-law/widget.php on line 8
+[04-Feb-2020 19:24:47 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/eu-cookie-law/widget.php on line 2
+[04-Feb-2020 19:24:47 UTC] PHP Fatal error:  Call to undefined function esc_attr() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/eu-cookie-law/widget.php on line 8
+[04-Feb-2020 19:24:47 UTC] PHP Fatal error:  Call to undefined function esc_html_e() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/eu-cookie-law/form.php on line 3

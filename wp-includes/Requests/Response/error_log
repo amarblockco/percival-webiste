@@ -1,0 +1,10 @@
+[11-Apr-2019 19:01:40 UTC] PHP Fatal error:  Class 'Requests_Utility_CaseInsensitiveDictionary' not found in /home/percivaltoken/public_html/wp-includes/Requests/Response/Headers.php on line 13
+[12-Apr-2019 09:40:51 UTC] PHP Fatal error:  Class 'Requests_Utility_CaseInsensitiveDictionary' not found in /home/percivaltoken/public_html/wp-includes/Requests/Response/Headers.php on line 13
+[24-Jun-2019 07:35:51 UTC] PHP Fatal error:  Class 'Requests_Utility_CaseInsensitiveDictionary' not found in /home/percivaltoken/public_html/wp-includes/Requests/Response/Headers.php on line 13
+[11-Dec-2019 13:12:53 UTC] PHP Fatal error:  Class 'Requests_Utility_CaseInsensitiveDictionary' not found in /home/percivaltoken/public_html/wp-includes/Requests/Response/Headers.php on line 13
+[13-Jan-2020 18:06:18 UTC] PHP Fatal error:  Class 'Requests_Utility_CaseInsensitiveDictionary' not found in /home/percivaltoken/public_html/wp-includes/Requests/Response/Headers.php on line 13
+[13-Jan-2020 21:08:05 UTC] PHP Fatal error:  Class 'Requests_Utility_CaseInsensitiveDictionary' not found in /home/percivaltoken/public_html/wp-includes/Requests/Response/Headers.php on line 13
+[24-Jan-2020 11:55:44 UTC] PHP Fatal error:  Class 'Requests_Utility_CaseInsensitiveDictionary' not found in /home/percivaltoken/public_html/wp-includes/Requests/Response/Headers.php on line 13
+[24-Jan-2020 21:11:06 UTC] PHP Fatal error:  Class 'Requests_Utility_CaseInsensitiveDictionary' not found in /home/percivaltoken/public_html/wp-includes/Requests/Response/Headers.php on line 13
+[04-Feb-2020 19:23:46 UTC] PHP Fatal error:  Class 'Requests_Utility_CaseInsensitiveDictionary' not found in /home/percivaltoken/public_html/wp-includes/Requests/Response/Headers.php on line 13
+[17-Feb-2020 17:49:11 UTC] PHP Fatal error:  Class 'Requests_Utility_CaseInsensitiveDictionary' not found in /home/percivaltoken/public_html/wp-includes/Requests/Response/Headers.php on line 13

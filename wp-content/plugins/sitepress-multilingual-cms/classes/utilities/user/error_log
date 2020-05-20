@@ -1,0 +1,4 @@
+[11-Dec-2019 13:36:46 UTC] PHP Fatal error:  Class 'WP_User' not found in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/classes/utilities/user/class-wpml-user.php on line 3
+[24-Jan-2020 12:22:52 UTC] PHP Fatal error:  Class 'WP_User' not found in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/classes/utilities/user/class-wpml-user.php on line 3
+[24-Jan-2020 21:14:13 UTC] PHP Fatal error:  Class 'WP_User' not found in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/classes/utilities/user/class-wpml-user.php on line 3
+[04-Feb-2020 19:26:01 UTC] PHP Fatal error:  Class 'WP_User' not found in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/classes/utilities/user/class-wpml-user.php on line 3

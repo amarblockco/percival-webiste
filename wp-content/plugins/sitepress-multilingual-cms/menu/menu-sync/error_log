@@ -1,0 +1,5 @@
+[11-Dec-2019 13:13:10 UTC] PHP Fatal error:  Call to a member function get_active_languages() on null in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/menu/menu-sync/menus-sync.php on line 6
+[24-Jan-2020 11:56:17 UTC] PHP Fatal error:  Call to a member function get_active_languages() on null in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/menu/menu-sync/menus-sync.php on line 6
+[24-Jan-2020 21:14:31 UTC] PHP Fatal error:  Call to a member function get_active_languages() on null in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/menu/menu-sync/menus-sync.php on line 6
+[04-Feb-2020 19:24:14 UTC] PHP Fatal error:  Call to a member function get_active_languages() on null in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/menu/menu-sync/menus-sync.php on line 6
+[17-Feb-2020 17:49:18 UTC] PHP Fatal error:  Call to a member function get_active_languages() on null in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/menu/menu-sync/menus-sync.php on line 6

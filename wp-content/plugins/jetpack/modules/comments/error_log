@@ -1,0 +1,14 @@
+[11-Dec-2019 12:55:11 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/comments/base.php on line 25
+[11-Dec-2019 12:55:11 UTC] PHP Fatal error:  Class 'Jetpack_Comments' not found in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/comments/admin.php on line 28
+[13-Jan-2020 17:48:06 UTC] PHP Fatal error:  Class 'Jetpack_Comments' not found in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/comments/admin.php on line 28
+[13-Jan-2020 17:48:10 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/comments/base.php on line 25
+[13-Jan-2020 21:06:27 UTC] PHP Fatal error:  Class 'Jetpack_Comments' not found in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/comments/admin.php on line 28
+[13-Jan-2020 21:06:28 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/comments/base.php on line 25
+[24-Jan-2020 11:41:57 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/comments/base.php on line 25
+[24-Jan-2020 11:41:57 UTC] PHP Fatal error:  Class 'Jetpack_Comments' not found in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/comments/admin.php on line 28
+[24-Jan-2020 21:12:01 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/comments/base.php on line 25
+[24-Jan-2020 21:12:02 UTC] PHP Fatal error:  Class 'Jetpack_Comments' not found in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/comments/admin.php on line 28
+[04-Feb-2020 19:23:10 UTC] PHP Fatal error:  Class 'Jetpack_Comments' not found in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/comments/admin.php on line 28
+[04-Feb-2020 19:23:10 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/comments/base.php on line 25
+[17-Feb-2020 17:46:49 UTC] PHP Fatal error:  Class 'Jetpack_Comments' not found in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/comments/admin.php on line 28
+[17-Feb-2020 17:46:49 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/comments/base.php on line 25

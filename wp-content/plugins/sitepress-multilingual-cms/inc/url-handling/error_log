@@ -1,0 +1,8 @@
+[11-Dec-2019 13:13:05 UTC] PHP Fatal error:  Class 'WPML_Root_Page' not found in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/inc/url-handling/wpml-root-page.class.php on line 5
+[11-Dec-2019 13:13:05 UTC] PHP Fatal error:  Class 'WPML_Full_PT_API' not found in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/inc/url-handling/wpml-slug-filter.class.php on line 10
+[24-Jan-2020 11:56:10 UTC] PHP Fatal error:  Class 'WPML_Root_Page' not found in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/inc/url-handling/wpml-root-page.class.php on line 5
+[24-Jan-2020 11:56:11 UTC] PHP Fatal error:  Class 'WPML_Full_PT_API' not found in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/inc/url-handling/wpml-slug-filter.class.php on line 10
+[24-Jan-2020 21:13:20 UTC] PHP Fatal error:  Class 'WPML_Full_PT_API' not found in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/inc/url-handling/wpml-slug-filter.class.php on line 10
+[24-Jan-2020 21:13:21 UTC] PHP Fatal error:  Class 'WPML_Root_Page' not found in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/inc/url-handling/wpml-root-page.class.php on line 5
+[04-Feb-2020 19:24:11 UTC] PHP Fatal error:  Class 'WPML_Root_Page' not found in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/inc/url-handling/wpml-root-page.class.php on line 5
+[04-Feb-2020 19:24:11 UTC] PHP Fatal error:  Class 'WPML_Full_PT_API' not found in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/inc/url-handling/wpml-slug-filter.class.php on line 10

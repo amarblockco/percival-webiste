@@ -1,0 +1,5 @@
+[11-Dec-2019 13:13:14 UTC] PHP Fatal error:  Interface 'IWPML_Backend_Action' not found in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/classes/options/class-wpml-option-manager.php on line 8
+[24-Jan-2020 11:56:25 UTC] PHP Fatal error:  Interface 'IWPML_Backend_Action' not found in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/classes/options/class-wpml-option-manager.php on line 8
+[24-Jan-2020 21:14:09 UTC] PHP Fatal error:  Interface 'IWPML_Backend_Action' not found in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/classes/options/class-wpml-option-manager.php on line 8
+[04-Feb-2020 19:24:29 UTC] PHP Fatal error:  Interface 'IWPML_Backend_Action' not found in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/classes/options/class-wpml-option-manager.php on line 8
+[17-Feb-2020 17:49:26 UTC] PHP Fatal error:  Interface 'IWPML_Backend_Action' not found in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/classes/options/class-wpml-option-manager.php on line 8

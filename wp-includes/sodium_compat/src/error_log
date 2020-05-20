@@ -1,0 +1,6 @@
+[13-Jan-2020 18:08:22 UTC] PHP Fatal error:  Class 'ParagonIE_Sodium_Core_Util' not found in /home/percivaltoken/public_html/wp-includes/sodium_compat/src/File.php on line 10
+[13-Jan-2020 21:08:15 UTC] PHP Fatal error:  Class 'ParagonIE_Sodium_Core_Util' not found in /home/percivaltoken/public_html/wp-includes/sodium_compat/src/File.php on line 10
+[24-Jan-2020 11:55:51 UTC] PHP Fatal error:  Class 'ParagonIE_Sodium_Core_Util' not found in /home/percivaltoken/public_html/wp-includes/sodium_compat/src/File.php on line 10
+[24-Jan-2020 21:11:25 UTC] PHP Fatal error:  Class 'ParagonIE_Sodium_Core_Util' not found in /home/percivaltoken/public_html/wp-includes/sodium_compat/src/File.php on line 10
+[04-Feb-2020 19:23:50 UTC] PHP Fatal error:  Class 'ParagonIE_Sodium_Core_Util' not found in /home/percivaltoken/public_html/wp-includes/sodium_compat/src/File.php on line 10
+[17-Feb-2020 17:49:12 UTC] PHP Fatal error:  Class 'ParagonIE_Sodium_Core_Util' not found in /home/percivaltoken/public_html/wp-includes/sodium_compat/src/File.php on line 10

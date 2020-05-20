@@ -1,0 +1,6 @@
+[11-Dec-2019 13:13:30 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/custom-css/custom-css/preprocessors.php on line 33
+[13-Jan-2020 18:42:08 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/custom-css/custom-css/preprocessors.php on line 33
+[13-Jan-2020 21:09:18 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/custom-css/custom-css/preprocessors.php on line 33
+[24-Jan-2020 11:57:08 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/custom-css/custom-css/preprocessors.php on line 33
+[24-Jan-2020 21:12:04 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/custom-css/custom-css/preprocessors.php on line 33
+[04-Feb-2020 19:24:49 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/custom-css/custom-css/preprocessors.php on line 33

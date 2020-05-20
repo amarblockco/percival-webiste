@@ -1,0 +1,2 @@
+[13-Jan-2020 18:50:27 UTC] PHP Fatal error:  Interface 'IWPML_Backend_Action_Loader' not found in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/classes/admin-resources/class-wpml-admin-resources-hooks-factory.php on line 3
+[13-Jan-2020 21:10:13 UTC] PHP Fatal error:  Interface 'IWPML_Backend_Action_Loader' not found in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/classes/admin-resources/class-wpml-admin-resources-hooks-factory.php on line 3

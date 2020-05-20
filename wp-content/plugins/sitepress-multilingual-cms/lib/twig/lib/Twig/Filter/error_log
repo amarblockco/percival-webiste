@@ -1,0 +1,9 @@
+[24-Jan-2020 13:05:56 UTC] PHP Fatal error:  Class 'WPML\Core\Twig_Filter' not found in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/lib/twig/lib/Twig/Filter/Method.php on line 25
+[24-Jan-2020 13:05:56 UTC] PHP Fatal error:  Class 'WPML\Core\Twig_Filter' not found in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/lib/twig/lib/Twig/Filter/Function.php on line 24
+[24-Jan-2020 13:05:57 UTC] PHP Fatal error:  Class 'WPML\Core\Twig_Filter' not found in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/lib/twig/lib/Twig/Filter/Node.php on line 24
+[24-Jan-2020 21:13:55 UTC] PHP Fatal error:  Class 'WPML\Core\Twig_Filter' not found in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/lib/twig/lib/Twig/Filter/Node.php on line 24
+[24-Jan-2020 21:13:55 UTC] PHP Fatal error:  Class 'WPML\Core\Twig_Filter' not found in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/lib/twig/lib/Twig/Filter/Method.php on line 25
+[24-Jan-2020 21:13:55 UTC] PHP Fatal error:  Class 'WPML\Core\Twig_Filter' not found in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/lib/twig/lib/Twig/Filter/Function.php on line 24
+[04-Feb-2020 19:27:24 UTC] PHP Fatal error:  Class 'WPML\Core\Twig_Filter' not found in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/lib/twig/lib/Twig/Filter/Node.php on line 24
+[04-Feb-2020 19:27:24 UTC] PHP Fatal error:  Class 'WPML\Core\Twig_Filter' not found in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/lib/twig/lib/Twig/Filter/Function.php on line 24
+[04-Feb-2020 19:27:25 UTC] PHP Fatal error:  Class 'WPML\Core\Twig_Filter' not found in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/lib/twig/lib/Twig/Filter/Method.php on line 25

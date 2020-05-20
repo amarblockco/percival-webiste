@@ -1,0 +1,9 @@
+[24-Jan-2020 13:05:58 UTC] PHP Fatal error:  Class 'WPML\Core\Twig_Function' not found in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/lib/twig/lib/Twig/Function/Method.php on line 26
+[24-Jan-2020 13:05:58 UTC] PHP Fatal error:  Class 'WPML\Core\Twig_Function' not found in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/lib/twig/lib/Twig/Function/Function.php on line 25
+[24-Jan-2020 13:05:59 UTC] PHP Fatal error:  Class 'WPML\Core\Twig_Function' not found in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/lib/twig/lib/Twig/Function/Node.php on line 24
+[24-Jan-2020 21:13:57 UTC] PHP Fatal error:  Class 'WPML\Core\Twig_Function' not found in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/lib/twig/lib/Twig/Function/Method.php on line 26
+[24-Jan-2020 21:13:57 UTC] PHP Fatal error:  Class 'WPML\Core\Twig_Function' not found in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/lib/twig/lib/Twig/Function/Node.php on line 24
+[24-Jan-2020 21:13:57 UTC] PHP Fatal error:  Class 'WPML\Core\Twig_Function' not found in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/lib/twig/lib/Twig/Function/Function.php on line 25
+[04-Feb-2020 19:27:24 UTC] PHP Fatal error:  Class 'WPML\Core\Twig_Function' not found in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/lib/twig/lib/Twig/Function/Method.php on line 26
+[04-Feb-2020 19:27:24 UTC] PHP Fatal error:  Class 'WPML\Core\Twig_Function' not found in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/lib/twig/lib/Twig/Function/Node.php on line 24
+[04-Feb-2020 19:27:24 UTC] PHP Fatal error:  Class 'WPML\Core\Twig_Function' not found in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/lib/twig/lib/Twig/Function/Function.php on line 25

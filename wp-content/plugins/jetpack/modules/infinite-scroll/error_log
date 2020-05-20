@@ -1,0 +1,7 @@
+[11-Dec-2019 12:55:16 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/infinite-scroll/infinity.php on line 1615
+[13-Jan-2020 17:49:00 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/infinite-scroll/infinity.php on line 1615
+[13-Jan-2020 21:06:32 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/infinite-scroll/infinity.php on line 1615
+[24-Jan-2020 11:42:01 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/infinite-scroll/infinity.php on line 1615
+[24-Jan-2020 21:12:16 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/infinite-scroll/infinity.php on line 1615
+[04-Feb-2020 19:23:17 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/infinite-scroll/infinity.php on line 1615
+[17-Feb-2020 17:46:56 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/infinite-scroll/infinity.php on line 1615

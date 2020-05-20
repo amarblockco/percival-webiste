@@ -1,0 +1,5 @@
+[11-Dec-2019 13:13:04 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/inc/tools/sunrise.php on line 39
+[24-Jan-2020 11:56:10 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/inc/tools/sunrise.php on line 39
+[24-Jan-2020 21:13:19 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/inc/tools/sunrise.php on line 39
+[04-Feb-2020 19:24:06 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/inc/tools/sunrise.php on line 39
+[17-Feb-2020 17:49:36 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/inc/tools/sunrise.php on line 39

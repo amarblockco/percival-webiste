@@ -1,0 +1,8 @@
+[11-Dec-2019 13:13:28 UTC] PHP Fatal error:  Call to undefined function esc_html_e() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/flickr/form.php on line 3
+[11-Dec-2019 13:13:28 UTC] PHP Fatal error:  Call to undefined function esc_attr() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/flickr/widget.php on line 2
+[24-Jan-2020 11:56:50 UTC] PHP Fatal error:  Call to undefined function esc_html_e() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/flickr/form.php on line 3
+[24-Jan-2020 11:56:50 UTC] PHP Fatal error:  Call to undefined function esc_attr() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/flickr/widget.php on line 2
+[24-Jan-2020 21:11:53 UTC] PHP Fatal error:  Call to undefined function esc_html_e() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/flickr/form.php on line 3
+[24-Jan-2020 21:11:54 UTC] PHP Fatal error:  Call to undefined function esc_attr() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/flickr/widget.php on line 2
+[04-Feb-2020 19:24:46 UTC] PHP Fatal error:  Call to undefined function esc_html_e() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/flickr/form.php on line 3
+[04-Feb-2020 19:24:47 UTC] PHP Fatal error:  Call to undefined function esc_attr() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/flickr/widget.php on line 2

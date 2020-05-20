@@ -1,0 +1,5 @@
+[11-Dec-2019 13:13:24 UTC] PHP Fatal error:  Interface 'IWPML_Action' not found in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/compatibility/jetpack/class-wpml-compatibility-jetpack.php on line 6
+[24-Jan-2020 11:56:37 UTC] PHP Fatal error:  Interface 'IWPML_Action' not found in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/compatibility/jetpack/class-wpml-compatibility-jetpack.php on line 6
+[24-Jan-2020 21:15:51 UTC] PHP Fatal error:  Interface 'IWPML_Action' not found in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/compatibility/jetpack/class-wpml-compatibility-jetpack.php on line 6
+[04-Feb-2020 19:24:24 UTC] PHP Fatal error:  Interface 'IWPML_Action' not found in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/compatibility/jetpack/class-wpml-compatibility-jetpack.php on line 6
+[17-Feb-2020 17:49:35 UTC] PHP Fatal error:  Interface 'IWPML_Action' not found in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/compatibility/jetpack/class-wpml-compatibility-jetpack.php on line 6

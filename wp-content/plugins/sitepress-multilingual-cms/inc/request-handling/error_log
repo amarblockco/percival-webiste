@@ -1,0 +1,4 @@
+[11-Dec-2019 13:13:07 UTC] PHP Fatal error:  Class 'WPML_Request' not found in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/inc/request-handling/wpml-backend-request.class.php on line 9
+[24-Jan-2020 11:56:15 UTC] PHP Fatal error:  Class 'WPML_Request' not found in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/inc/request-handling/wpml-backend-request.class.php on line 9
+[24-Jan-2020 21:13:27 UTC] PHP Fatal error:  Class 'WPML_Request' not found in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/inc/request-handling/wpml-backend-request.class.php on line 9
+[04-Feb-2020 19:24:14 UTC] PHP Fatal error:  Class 'WPML_Request' not found in /home/percivaltoken/public_html/wp-content/plugins/sitepress-multilingual-cms/inc/request-handling/wpml-backend-request.class.php on line 9

@@ -1,0 +1,12 @@
+[11-Dec-2019 13:13:30 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/custom-css/csstidy/data-wp.inc.php on line 16
+[11-Dec-2019 13:13:30 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/custom-css/csstidy/data-wp.inc.php on line 24
+[13-Jan-2020 18:42:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/custom-css/csstidy/data-wp.inc.php on line 16
+[13-Jan-2020 18:42:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/custom-css/csstidy/data-wp.inc.php on line 24
+[13-Jan-2020 21:09:18 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/custom-css/csstidy/data-wp.inc.php on line 16
+[13-Jan-2020 21:09:18 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/custom-css/csstidy/data-wp.inc.php on line 24
+[24-Jan-2020 11:56:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/custom-css/csstidy/data-wp.inc.php on line 16
+[24-Jan-2020 11:56:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/custom-css/csstidy/data-wp.inc.php on line 24
+[24-Jan-2020 21:12:04 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/custom-css/csstidy/data-wp.inc.php on line 16
+[24-Jan-2020 21:12:04 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/custom-css/csstidy/data-wp.inc.php on line 24
+[04-Feb-2020 19:24:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/custom-css/csstidy/data-wp.inc.php on line 16
+[04-Feb-2020 19:24:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/custom-css/csstidy/data-wp.inc.php on line 24

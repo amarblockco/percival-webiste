@@ -1,0 +1,8 @@
+[11-Dec-2019 13:36:54 UTC] PHP Fatal error:  Call to undefined function get_option() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/theme-tools/site-logo/inc/class-site-logo.php on line 39
+[11-Dec-2019 13:36:54 UTC] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/theme-tools/site-logo/inc/class-site-logo-control.php on line 7
+[24-Jan-2020 12:23:03 UTC] PHP Fatal error:  Call to undefined function get_option() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/theme-tools/site-logo/inc/class-site-logo.php on line 39
+[24-Jan-2020 12:23:03 UTC] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/theme-tools/site-logo/inc/class-site-logo-control.php on line 7
+[24-Jan-2020 21:12:07 UTC] PHP Fatal error:  Call to undefined function get_option() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/theme-tools/site-logo/inc/class-site-logo.php on line 39
+[24-Jan-2020 21:12:07 UTC] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/theme-tools/site-logo/inc/class-site-logo-control.php on line 7
+[04-Feb-2020 19:26:15 UTC] PHP Fatal error:  Call to undefined function get_option() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/theme-tools/site-logo/inc/class-site-logo.php on line 39
+[04-Feb-2020 19:26:15 UTC] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/theme-tools/site-logo/inc/class-site-logo-control.php on line 7

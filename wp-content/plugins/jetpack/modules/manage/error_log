@@ -1,0 +1,14 @@
+[11-Dec-2019 12:55:07 UTC] PHP Fatal error:  Call to undefined function wp_nonce_url() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/manage/confirm-admin.php on line 3
+[11-Dec-2019 12:55:07 UTC] PHP Fatal error:  Call to undefined function wp_nonce_url() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/manage/activate-admin.php on line 3
+[13-Jan-2020 17:49:17 UTC] PHP Fatal error:  Call to undefined function wp_nonce_url() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/manage/activate-admin.php on line 3
+[13-Jan-2020 17:49:17 UTC] PHP Fatal error:  Call to undefined function wp_nonce_url() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/manage/confirm-admin.php on line 3
+[13-Jan-2020 21:06:33 UTC] PHP Fatal error:  Call to undefined function wp_nonce_url() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/manage/confirm-admin.php on line 3
+[13-Jan-2020 21:06:33 UTC] PHP Fatal error:  Call to undefined function wp_nonce_url() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/manage/activate-admin.php on line 3
+[24-Jan-2020 11:41:49 UTC] PHP Fatal error:  Call to undefined function wp_nonce_url() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/manage/confirm-admin.php on line 3
+[24-Jan-2020 11:41:49 UTC] PHP Fatal error:  Call to undefined function wp_nonce_url() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/manage/activate-admin.php on line 3
+[24-Jan-2020 21:11:53 UTC] PHP Fatal error:  Call to undefined function wp_nonce_url() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/manage/confirm-admin.php on line 3
+[24-Jan-2020 21:11:53 UTC] PHP Fatal error:  Call to undefined function wp_nonce_url() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/manage/activate-admin.php on line 3
+[04-Feb-2020 19:23:04 UTC] PHP Fatal error:  Call to undefined function wp_nonce_url() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/manage/confirm-admin.php on line 3
+[04-Feb-2020 19:23:04 UTC] PHP Fatal error:  Call to undefined function wp_nonce_url() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/manage/activate-admin.php on line 3
+[17-Feb-2020 17:46:47 UTC] PHP Fatal error:  Call to undefined function wp_nonce_url() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/manage/activate-admin.php on line 3
+[17-Feb-2020 17:46:47 UTC] PHP Fatal error:  Call to undefined function wp_nonce_url() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/manage/confirm-admin.php on line 3

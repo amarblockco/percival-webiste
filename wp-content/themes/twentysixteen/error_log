@@ -1,0 +1,24 @@
+[14-Nov-2018 21:42:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/percivaltoken/public_html/wp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/percivaltoken/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[15-Nov-2018 17:17:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/percivaltoken/public_html/wp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/percivaltoken/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[06-Jan-2019 12:32:13 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/percivaltoken/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[07-May-2019 02:42:52 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/percivaltoken/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[07-May-2019 23:02:03 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/percivaltoken/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[28-May-2019 05:17:35 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/percivaltoken/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[28-May-2019 05:17:42 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/percivaltoken/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[28-May-2019 05:17:56 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/percivaltoken/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[28-May-2019 05:18:04 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/percivaltoken/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[28-May-2019 05:18:13 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/percivaltoken/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[06-Jul-2019 13:35:34 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/percivaltoken/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[15-Jul-2019 08:14:39 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/percivaltoken/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[16-Jul-2019 05:54:41 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/percivaltoken/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[05-Aug-2019 19:19:25 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/percivaltoken/public_html/wp-content/themes/twentysixteen/index.php on line 17
+[05-Aug-2019 19:19:25 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/percivaltoken/public_html/wp-content/themes/twentysixteen/index.php on line 17
+[05-Aug-2019 19:50:30 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/percivaltoken/public_html/wp-content/themes/twentysixteen/index.php on line 17
+[03-Oct-2019 21:09:27 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/percivaltoken/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[20-Oct-2019 10:36:15 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/percivaltoken/public_html/wp-content/themes/twentysixteen/404.php on line 10

@@ -1,0 +1,7 @@
+[11-Dec-2019 12:55:16 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widget-visibility/widget-conditions.php on line 852
+[13-Jan-2020 17:51:59 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widget-visibility/widget-conditions.php on line 852
+[13-Jan-2020 21:06:58 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widget-visibility/widget-conditions.php on line 852
+[24-Jan-2020 11:42:03 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widget-visibility/widget-conditions.php on line 852
+[24-Jan-2020 21:12:18 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widget-visibility/widget-conditions.php on line 852
+[04-Feb-2020 19:23:19 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widget-visibility/widget-conditions.php on line 852
+[17-Feb-2020 17:46:56 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widget-visibility/widget-conditions.php on line 852

@@ -1,0 +1,6 @@
+[24-Jan-2020 12:47:53 UTC] PHP Fatal error:  Class 'ParagonIE_Sodium_Core32_Util' not found in /home/percivaltoken/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php on line 10
+[24-Jan-2020 12:47:54 UTC] PHP Fatal error:  Class 'ParagonIE_Sodium_Core32_ChaCha20_Ctx' not found in /home/percivaltoken/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php on line 11
+[24-Jan-2020 21:11:24 UTC] PHP Fatal error:  Class 'ParagonIE_Sodium_Core32_Util' not found in /home/percivaltoken/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php on line 10
+[24-Jan-2020 21:11:24 UTC] PHP Fatal error:  Class 'ParagonIE_Sodium_Core32_ChaCha20_Ctx' not found in /home/percivaltoken/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php on line 11
+[04-Feb-2020 19:26:36 UTC] PHP Fatal error:  Class 'ParagonIE_Sodium_Core32_Util' not found in /home/percivaltoken/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php on line 10
+[04-Feb-2020 19:26:37 UTC] PHP Fatal error:  Class 'ParagonIE_Sodium_Core32_ChaCha20_Ctx' not found in /home/percivaltoken/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php on line 11

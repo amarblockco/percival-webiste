@@ -1,0 +1,7 @@
+[11-Dec-2019 12:50:57 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/carousel/jetpack-carousel.php on line 32
+[13-Jan-2020 17:47:57 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/carousel/jetpack-carousel.php on line 32
+[13-Jan-2020 21:06:27 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/carousel/jetpack-carousel.php on line 32
+[24-Jan-2020 11:36:39 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/carousel/jetpack-carousel.php on line 32
+[24-Jan-2020 21:11:44 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/carousel/jetpack-carousel.php on line 32
+[04-Feb-2020 19:21:15 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/carousel/jetpack-carousel.php on line 32
+[17-Feb-2020 17:45:29 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/carousel/jetpack-carousel.php on line 32

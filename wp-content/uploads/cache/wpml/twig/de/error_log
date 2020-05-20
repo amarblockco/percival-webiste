@@ -1,0 +1,4 @@
+[11-Dec-2019 13:58:57 UTC] PHP Fatal error:  Class 'WPML\Core\Twig\Template' not found in /home/percivaltoken/public_html/wp-content/uploads/cache/wpml/twig/de/de16e0735952cd96f635f2903cc892eee889390b83fae9c7a68bc4eb7984107a.php on line 18
+[24-Jan-2020 12:48:12 UTC] PHP Fatal error:  Class 'WPML\Core\Twig\Template' not found in /home/percivaltoken/public_html/wp-content/uploads/cache/wpml/twig/de/de16e0735952cd96f635f2903cc892eee889390b83fae9c7a68bc4eb7984107a.php on line 18
+[24-Jan-2020 21:16:03 UTC] PHP Fatal error:  Class 'WPML\Core\Twig\Template' not found in /home/percivaltoken/public_html/wp-content/uploads/cache/wpml/twig/de/de16e0735952cd96f635f2903cc892eee889390b83fae9c7a68bc4eb7984107a.php on line 18
+[04-Feb-2020 19:26:42 UTC] PHP Fatal error:  Class 'WPML\Core\Twig\Template' not found in /home/percivaltoken/public_html/wp-content/uploads/cache/wpml/twig/de/de16e0735952cd96f635f2903cc892eee889390b83fae9c7a68bc4eb7984107a.php on line 18

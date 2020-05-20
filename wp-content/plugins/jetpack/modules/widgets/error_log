@@ -1,0 +1,133 @@
+[11-Dec-2019 12:55:08 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/milestone/milestone.php on line 14
+[11-Dec-2019 12:55:08 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/search.php on line 10
+[11-Dec-2019 12:55:09 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/gallery.php on line 11
+[11-Dec-2019 12:55:09 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/top-posts.php on line 13
+[11-Dec-2019 12:55:09 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/contact-info.php on line 10
+[11-Dec-2019 12:55:09 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/upcoming-events.php on line 3
+[11-Dec-2019 12:55:09 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/twitter-timeline.php on line 14
+[11-Dec-2019 12:55:09 UTC] PHP Warning:  include_once(JETPACK__PLUGIN_DIRmodules/shortcodes/mailchimp.php): failed to open stream: No such file or directory in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/mailchimp.php on line 6
+[11-Dec-2019 12:55:09 UTC] PHP Warning:  include_once(): Failed opening 'JETPACK__PLUGIN_DIRmodules/shortcodes/mailchimp.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/mailchimp.php on line 6
+[11-Dec-2019 12:55:09 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/mailchimp.php on line 14
+[11-Dec-2019 12:55:09 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/image-widget.php on line 12
+[11-Dec-2019 12:55:10 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/goodreads.php on line 5
+[11-Dec-2019 12:55:10 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/facebook-likebox.php on line 6
+[11-Dec-2019 12:55:10 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/gravatar-profile.php on line 6
+[11-Dec-2019 12:55:10 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/social-media-icons.php on line 19
+[11-Dec-2019 12:55:10 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/social-icons.php on line 2
+[11-Dec-2019 12:55:10 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/rsslinks-widget.php on line 9
+[11-Dec-2019 12:55:10 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/internet-defense-league.php on line 3
+[11-Dec-2019 12:55:11 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/googleplus-badge.php on line 6
+[13-Jan-2020 17:52:05 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/contact-info.php on line 10
+[13-Jan-2020 17:52:08 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/facebook-likebox.php on line 6
+[13-Jan-2020 17:52:09 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/gallery.php on line 11
+[13-Jan-2020 17:52:10 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/goodreads.php on line 5
+[13-Jan-2020 17:52:10 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/googleplus-badge.php on line 6
+[13-Jan-2020 17:52:10 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/gravatar-profile.php on line 6
+[13-Jan-2020 17:52:10 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/image-widget.php on line 12
+[13-Jan-2020 17:52:11 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/milestone/milestone.php on line 14
+[13-Jan-2020 17:52:11 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/internet-defense-league.php on line 3
+[13-Jan-2020 17:52:11 UTC] PHP Warning:  include_once(JETPACK__PLUGIN_DIRmodules/shortcodes/mailchimp.php): failed to open stream: No such file or directory in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/mailchimp.php on line 6
+[13-Jan-2020 17:52:11 UTC] PHP Warning:  include_once(): Failed opening 'JETPACK__PLUGIN_DIRmodules/shortcodes/mailchimp.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/mailchimp.php on line 6
+[13-Jan-2020 17:52:11 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/mailchimp.php on line 14
+[13-Jan-2020 17:52:12 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/social-icons.php on line 2
+[13-Jan-2020 17:52:12 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/social-media-icons.php on line 19
+[13-Jan-2020 17:52:12 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/rsslinks-widget.php on line 9
+[13-Jan-2020 17:52:12 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/top-posts.php on line 13
+[13-Jan-2020 17:52:12 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/search.php on line 10
+[13-Jan-2020 17:52:13 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/twitter-timeline.php on line 14
+[13-Jan-2020 17:52:13 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/upcoming-events.php on line 3
+[13-Jan-2020 21:06:59 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/contact-info.php on line 10
+[13-Jan-2020 21:06:59 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/gallery.php on line 11
+[13-Jan-2020 21:06:59 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/goodreads.php on line 5
+[13-Jan-2020 21:06:59 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/googleplus-badge.php on line 6
+[13-Jan-2020 21:07:00 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/image-widget.php on line 12
+[13-Jan-2020 21:07:00 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/internet-defense-league.php on line 3
+[13-Jan-2020 21:07:00 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/facebook-likebox.php on line 6
+[13-Jan-2020 21:07:00 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/gravatar-profile.php on line 6
+[13-Jan-2020 21:07:00 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/search.php on line 10
+[13-Jan-2020 21:07:01 UTC] PHP Warning:  include_once(JETPACK__PLUGIN_DIRmodules/shortcodes/mailchimp.php): failed to open stream: No such file or directory in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/mailchimp.php on line 6
+[13-Jan-2020 21:07:01 UTC] PHP Warning:  include_once(): Failed opening 'JETPACK__PLUGIN_DIRmodules/shortcodes/mailchimp.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/mailchimp.php on line 6
+[13-Jan-2020 21:07:01 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/mailchimp.php on line 14
+[13-Jan-2020 21:07:01 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/milestone/milestone.php on line 14
+[13-Jan-2020 21:07:01 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/rsslinks-widget.php on line 9
+[13-Jan-2020 21:07:02 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/upcoming-events.php on line 3
+[13-Jan-2020 21:07:02 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/social-icons.php on line 2
+[13-Jan-2020 21:07:02 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/social-media-icons.php on line 19
+[13-Jan-2020 21:07:02 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/top-posts.php on line 13
+[13-Jan-2020 21:07:02 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/twitter-timeline.php on line 14
+[24-Jan-2020 11:41:49 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/milestone/milestone.php on line 14
+[24-Jan-2020 11:41:49 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/search.php on line 10
+[24-Jan-2020 11:41:49 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/contact-info.php on line 10
+[24-Jan-2020 11:41:50 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/gallery.php on line 11
+[24-Jan-2020 11:41:50 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/top-posts.php on line 13
+[24-Jan-2020 11:41:50 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/twitter-timeline.php on line 14
+[24-Jan-2020 11:41:50 UTC] PHP Warning:  include_once(JETPACK__PLUGIN_DIRmodules/shortcodes/mailchimp.php): failed to open stream: No such file or directory in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/mailchimp.php on line 6
+[24-Jan-2020 11:41:50 UTC] PHP Warning:  include_once(): Failed opening 'JETPACK__PLUGIN_DIRmodules/shortcodes/mailchimp.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/mailchimp.php on line 6
+[24-Jan-2020 11:41:50 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/mailchimp.php on line 14
+[24-Jan-2020 11:41:51 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/image-widget.php on line 12
+[24-Jan-2020 11:41:51 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/social-icons.php on line 2
+[24-Jan-2020 11:41:51 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/goodreads.php on line 5
+[24-Jan-2020 11:41:51 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/rsslinks-widget.php on line 9
+[24-Jan-2020 11:41:51 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/upcoming-events.php on line 3
+[24-Jan-2020 11:41:51 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/googleplus-badge.php on line 6
+[24-Jan-2020 11:41:52 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/facebook-likebox.php on line 6
+[24-Jan-2020 11:41:52 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/gravatar-profile.php on line 6
+[24-Jan-2020 11:41:52 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/social-media-icons.php on line 19
+[24-Jan-2020 11:41:52 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/internet-defense-league.php on line 3
+[24-Jan-2020 21:11:54 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/milestone/milestone.php on line 14
+[24-Jan-2020 21:11:54 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/search.php on line 10
+[24-Jan-2020 21:11:54 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/contact-info.php on line 10
+[24-Jan-2020 21:11:55 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/gallery.php on line 11
+[24-Jan-2020 21:11:55 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/top-posts.php on line 13
+[24-Jan-2020 21:11:55 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/goodreads.php on line 5
+[24-Jan-2020 21:11:55 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/twitter-timeline.php on line 14
+[24-Jan-2020 21:11:55 UTC] PHP Warning:  include_once(JETPACK__PLUGIN_DIRmodules/shortcodes/mailchimp.php): failed to open stream: No such file or directory in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/mailchimp.php on line 6
+[24-Jan-2020 21:11:55 UTC] PHP Warning:  include_once(): Failed opening 'JETPACK__PLUGIN_DIRmodules/shortcodes/mailchimp.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/mailchimp.php on line 6
+[24-Jan-2020 21:11:55 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/mailchimp.php on line 14
+[24-Jan-2020 21:11:56 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/image-widget.php on line 12
+[24-Jan-2020 21:11:56 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/social-icons.php on line 2
+[24-Jan-2020 21:11:56 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/upcoming-events.php on line 3
+[24-Jan-2020 21:11:56 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/rsslinks-widget.php on line 9
+[24-Jan-2020 21:11:57 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/facebook-likebox.php on line 6
+[24-Jan-2020 21:11:57 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/social-media-icons.php on line 19
+[24-Jan-2020 21:11:57 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/internet-defense-league.php on line 3
+[24-Jan-2020 21:11:57 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/gravatar-profile.php on line 6
+[24-Jan-2020 21:11:58 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/googleplus-badge.php on line 6
+[04-Feb-2020 19:23:06 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/milestone/milestone.php on line 14
+[04-Feb-2020 19:23:07 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/gallery.php on line 11
+[04-Feb-2020 19:23:07 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/search.php on line 10
+[04-Feb-2020 19:23:07 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/top-posts.php on line 13
+[04-Feb-2020 19:23:08 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/contact-info.php on line 10
+[04-Feb-2020 19:23:08 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/upcoming-events.php on line 3
+[04-Feb-2020 19:23:08 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/twitter-timeline.php on line 14
+[04-Feb-2020 19:23:08 UTC] PHP Warning:  include_once(JETPACK__PLUGIN_DIRmodules/shortcodes/mailchimp.php): failed to open stream: No such file or directory in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/mailchimp.php on line 6
+[04-Feb-2020 19:23:08 UTC] PHP Warning:  include_once(): Failed opening 'JETPACK__PLUGIN_DIRmodules/shortcodes/mailchimp.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/mailchimp.php on line 6
+[04-Feb-2020 19:23:08 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/mailchimp.php on line 14
+[04-Feb-2020 19:23:08 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/image-widget.php on line 12
+[04-Feb-2020 19:23:08 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/social-icons.php on line 2
+[04-Feb-2020 19:23:08 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/goodreads.php on line 5
+[04-Feb-2020 19:23:09 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/gravatar-profile.php on line 6
+[04-Feb-2020 19:23:09 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/social-media-icons.php on line 19
+[04-Feb-2020 19:23:09 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/internet-defense-league.php on line 3
+[04-Feb-2020 19:23:10 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/facebook-likebox.php on line 6
+[04-Feb-2020 19:23:10 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/rsslinks-widget.php on line 9
+[04-Feb-2020 19:23:10 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/googleplus-badge.php on line 6
+[17-Feb-2020 17:46:49 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/milestone/milestone.php on line 14
+[17-Feb-2020 17:46:49 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/search.php on line 10
+[17-Feb-2020 17:46:50 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/gallery.php on line 11
+[17-Feb-2020 17:46:50 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/top-posts.php on line 13
+[17-Feb-2020 17:46:50 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/goodreads.php on line 5
+[17-Feb-2020 17:46:50 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/contact-info.php on line 10
+[17-Feb-2020 17:46:50 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/upcoming-events.php on line 3
+[17-Feb-2020 17:46:50 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/twitter-timeline.php on line 14
+[17-Feb-2020 17:46:50 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/image-widget.php on line 12
+[17-Feb-2020 17:46:50 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/social-icons.php on line 2
+[17-Feb-2020 17:46:50 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/facebook-likebox.php on line 6
+[17-Feb-2020 17:46:51 UTC] PHP Warning:  include_once(JETPACK__PLUGIN_DIRmodules/shortcodes/mailchimp.php): failed to open stream: No such file or directory in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/mailchimp.php on line 6
+[17-Feb-2020 17:46:51 UTC] PHP Warning:  include_once(): Failed opening 'JETPACK__PLUGIN_DIRmodules/shortcodes/mailchimp.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/mailchimp.php on line 6
+[17-Feb-2020 17:46:51 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/mailchimp.php on line 14
+[17-Feb-2020 17:46:51 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/googleplus-badge.php on line 6
+[17-Feb-2020 17:46:51 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/social-media-icons.php on line 19
+[17-Feb-2020 17:46:51 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/rsslinks-widget.php on line 9
+[17-Feb-2020 17:46:51 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/gravatar-profile.php on line 6
+[17-Feb-2020 17:46:51 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/percivaltoken/public_html/wp-content/plugins/jetpack/modules/widgets/internet-defense-league.php on line 3
