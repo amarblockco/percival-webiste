@@ -1,0 +1,9 @@
+[16-Sep-2019 07:09:41 UTC] PHP Fatal error:  Call to undefined function load_textdomain() in /home/percivaltoken/public_html/wp-admin/includes/admin.php on line 16
+[25-Sep-2019 18:42:16 UTC] PHP Fatal error:  Call to undefined function load_textdomain() in /home/percivaltoken/public_html/wp-admin/includes/admin.php on line 16
+[25-Sep-2019 20:37:25 UTC] PHP Fatal error:  Call to undefined function __() in /home/percivaltoken/public_html/wp-admin/includes/file.php on line 16
+[26-Sep-2019 00:16:09 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home/percivaltoken/public_html/wp-admin/includes/upgrade.php on line 16
+[26-Sep-2019 00:16:09 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/admin.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/percivaltoken/public_html/wp-admin/includes/upgrade.php on line 16
+[26-Sep-2019 00:21:02 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-list-table.php): failed to open stream: No such file or directory in /home/percivaltoken/public_html/wp-admin/includes/user.php on line 982
+[26-Sep-2019 00:21:02 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-list-table.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/percivaltoken/public_html/wp-admin/includes/user.php on line 982
+[18-Nov-2019 01:21:21 UTC] PHP Fatal error:  Call to undefined function load_textdomain() in /home/percivaltoken/public_html/wp-admin/includes/admin.php on line 16
+[18-Nov-2019 03:19:51 UTC] PHP Fatal error:  Call to undefined function __() in /home/percivaltoken/public_html/wp-admin/includes/file.php on line 16
