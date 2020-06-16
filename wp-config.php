@@ -23,10 +23,10 @@
 define('DB_NAME', 'percival_percival');
 
 /** MySQL database username */
-define('DB_USER', 'percival_perciva');
+define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'Percival@2018');
+define('DB_PASSWORD', 'InterAKT@Emi');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
